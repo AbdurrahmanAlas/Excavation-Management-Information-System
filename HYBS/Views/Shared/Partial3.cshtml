@@ -1,0 +1,21 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Company>
+
+@foreach (var k in Model)
+{
+
+
+<div class="col-md-12 col-sm-12">
+    <h3 class="animated fadeInLeft">FİRMA BİLGİLERİ</h3>
+    <p class="animated fadeInDown"><span class="fa  fa-map-marker"></span> Kayseri Çevre Koruma Daire Başkanlığı</p>
+
+    <ul class="nav navbar-nav">
+        <li><a href="/Company/FırmaBilgiler/@k.CompanyId">FirmaBilgileri</a></li>
+        <li><a href="/Vehicle/VehicleListByCompany/@k.CompanyId" class="active">AraçBilgileri</a></li>
+        <li><a href="/Ceza/CezaReadAll/@k.CompanyId" class="active">AraçBilgileri</a></li>
+        <li><a href="/Ceza/Index" class="active">CezaBilgileri</a></li>
+        <li><a href="/Vehicle/Index" class="active">Firma Belgeleri</a></li>
+
+
+    </ul>
+</div>
+}

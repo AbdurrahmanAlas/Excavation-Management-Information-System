@@ -1,0 +1,90 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Vehicle>
+
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title" style="color:blue"><b> HAFRİYAT ARAÇLARI LİSTESİ LİSTESİ</b></h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body">
+        <table id="example1" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th> Plaka</th>
+                   
+
+                    <th>Model</th>
+
+                    <th>Model Yılı</th>
+                    <th>HGS no</th>
+
+                    <th>IMEI no</th>
+                    <th>Arac Dara</th>
+                    <th>TİB İzinBitişTarih</th>
+                    <th>DökümanAdı</th>
+   
+                    <th>Sil</th>
+                    <th>Görüntüle</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+                <tr>
+
+
+
+
+                    <td>@k.VehiclePlaka</td>
+
+
+
+                    <td>@k.VehicleModel</td>
+                    <td>@k.VehicleYear</td>
+                    <td>@k.VehicleHGS</td>
+                    <td>@k.VehicleIMEI</td>
+                    <td>@k.VehicleDara</td>
+                    <td>@k.VehicleIzinBitis</td>
+                    <td>@k.DoumentName</td>
+
+
+                    <td><a href="/Company/DeleteCompanyDocument/@k.CompanyId" class="badge btn-info" style="font-size: 15px;">Sil</a></td>
+
+                    <td>
+
+                        <div class="col-md-3">
+
+                            <a href="~/imageBalance/@k.VehicleBrand">  <img src="~/imageBalance/@k.VehicleBrand" style="height:150px;width:240px;" alt="..."></a>
+                        </div>
+
+
+                    </td>
+
+
+                </tr>
+}
+            </tbody>
+            <tfoot>
+                <tr>
+
+                    <th> Markası</th>
+                    <th> Plaka</th>
+                    <th>Model</th>
+
+                    <th>Model Yılı</th>
+                    <th>HGS no</th>
+
+                    <th>IMEI no</th>
+                    <th>Arac Dara</th>
+                    <th>TİB İzinBitişTarih</th>
+                    <th>DökümanAdı</th>
+      
+                    <th>Sil</th>
+
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>

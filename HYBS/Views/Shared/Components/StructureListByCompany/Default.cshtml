@@ -1,0 +1,102 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Structure>
+
+
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title" style="color:blue"><b> YAPI RUHSATLI İŞ TALEPLERİ LİSTESİ</b>  <a href="/Structure/StructureAdd" class="badge btn-success" style="margin-left:900px;font-size:18px;"> +Yapı Ruhsat Talebi Ekle</a></h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body">
+        <table id="example1" class="table table-bordered table-striped">
+            <thead>
+                <tr style="background-color:#f8eabb">
+                    <th>Firma Adı</th>
+
+                    <th>Ruhsat No</th>
+                    <th>Üretici Adı</th>
+
+                    <th>Onay Tarihi</th>
+                    <th>Üretici Adres</th>
+                    <th>İlçeAda/Parsel</th>
+
+
+                    <th>Kazı/Dolgu(m3)</th>
+                    <th>FirmaDetay</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+                    <tr>
+                        <td><b>» </b></td>
+
+
+
+
+
+                        <td>@k.PermitNumber</td>
+
+                        <td>@k.ÜreticiName</td>
+                        <td>
+                            @(((DateTime)
+                          k.OnayDate).ToString("dd-MMM-yyyy"))
+                        </td>
+                        <td>@k.ÜreticiAddress</td>
+                        <td>
+                            @k.District<br />
+                            @k.Island/@k.Parcel
+                        </td>
+
+
+                        <td>Dolgu:@k.Filling<br />Kazı:@k.Casting</td>
+
+
+
+                        <td>
+                            <a href="/Company/CompanyReadAll/@k.StructureId" class="badge btn-primary" style="font-size: 14px;">✚FirmaDetay</a>
+
+
+                        </td>
+
+                        <td>
+                            <a href="/Structure/EditStructure/@k.StructureId" class="badge btn-info" style="font-size: 15px;" }>Güncelle</a>
+                        </td>
+                        <td>
+                            <a href="/Structure/DeleteStructure/@k.StructureId" class="badge btn-danger" style="font-size: 15px;" , new { onclick="return confirm('Silmek istiyor musunuz?')" }>Sil</a>
+                        </td>
+
+
+
+
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr style="background-color:#f8eabb">
+                    <th>Firma Adı</th>
+
+                    <th>Ruhsat No</th>
+                    <th>Üretici Adı</th>
+
+                    <th>Onay Tarihi</th>
+                    <th>Üretici Adres</th>
+                    <th>İlçe<br />Ada/Parsel</th>
+
+
+                    <th>Kazı/Dolgu(m3)</th>
+                    <th>FirmaDetay</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+
+
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>

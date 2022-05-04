@@ -1,0 +1,136 @@
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb

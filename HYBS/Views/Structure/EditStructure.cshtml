@@ -1,0 +1,326 @@
+﻿
+@{
+    ViewData["Title"] = "EditStructure";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model EntityLayer.Concrete.Structure
+
+
+
+@using (Html.BeginForm("EditStructure", "Structure", FormMethod.Post))
+{
+
+
+<div class="row">
+    <div class="col-12 col-sm-4">
+
+        <div class="card card-primary">
+            <div class="card-header">
+                <h3 class="card-title">Yapı Bilgileri</h3>
+            </div>
+            <div class="card-body">
+                <!-- Date dd/mm/yyyy -->
+                @Html.TextBoxFor(x => x.StructureId, new { @class = "form-control" })
+                <div class="form-group">
+                    <label>Firma Adı:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-laptop"></i></span>
+                        </div>
+                        @Html.DropDownListFor(x => x.CompanyId, (List<SelectListItem>)ViewBag.cv, new { @class = "form-control" })
+
+                    </div>
+                    <!-- /.input group -->
+                </div>
+                <!-- /.form group -->
+                <!-- Date mm/dd/yyyy -->
+                <div class="form-group">
+                    <div class="input-group">
+                        <label>Ruhsat No:</label>
+                        <div class="input-group">
+
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                            </div>
+                            @Html.TextBoxFor(x => x.PermitNumber, new { @class = "form-control" })
+
+                        </div>
+                    </div>
+                    <!-- /.input group -->
+                </div>
+                <div class="form-group">
+                    <label> Onay Tarihi:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.OnayDate, new { @class = "form-control" })
+                    </div>
+                    <!-- /.input group -->
+                </div>
+                <!-- /.form group -->
+                <!-- phone mask -->
+                <div class="form-group">
+                    <label>Hafriyat Araçları:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-book"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.VehiclePlaka, new { @class = "form-control" })
+
+                    </div>
+                    <!-- /.input group -->
+                </div>
+                <!-- /.form group -->
+                <!-- phone mask -->
+                <div class="form-group">
+                    <label>Üretici Adı:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-calculator"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.ÜreticiName, new { @class = "form-control" })
+
+                    </div>
+
+                    <!-- /.input group -->
+                </div>
+                <div class="form-group">
+                    <label>Üretici TelefonNo:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-calculator"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.ÜreticiPhone, new { @class = "form-control" })
+
+                    </div>
+
+                    <!-- /.input group -->
+                </div>
+                <div class="form-group">
+                    <label>Üretici Adres:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-calculator"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.ÜreticiAddress, new { @class = "form-control" })
+
+                    </div>
+
+                    <!-- /.input group -->
+                </div>
+
+                <!-- /.form group -->
+                <!-- IP mask -->
+                <!-- /.form group -->
+
+            </div>
+            <!-- /.card-body -->
+        </div>
+    </div>
+    <!-- /.col -->
+    <div class="col-12 col-sm-4">
+        <div class="card card-success">
+            <div class="card-header">
+                <h3 class="card-title">Hafriat Adres  Bilgileri</h3>
+            </div>
+            <div class="card-body">
+                <!-- Date dd/mm/yyyy -->
+                <!--<div class="form-group">
+    <label>İlçe:</label>
+
+    <div >
+        <div >
+            <span ><i class="fas fa-laptop"></i></span>
+        </div>
+       Html.DropDownListFor(x=>x.CompanyId,(List<SelectListItem>)ViewBag.cv,new { class = "form-control" })
+
+    </div>-->
+                <!-- /.input group -->
+                <!--</div>-->
+                <div class="form-group">
+                    <label>Bulunduğu İlçe:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="far fa-list-alt"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.District, new { @class = "form-control" })
+
+                    </div>
+                    <!-- /.input group -->
+                </div>
+                <div class="form-group">
+                    <label>Mahalle:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="far fa-list-alt"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.Mahalle, new { @class = "form-control" })
+
+                    </div>
+                    <!-- /.input group -->
+                </div>
+                <!-- /.form group -->
+                <!-- Date mm/dd/yyyy -->
+                <div class="form-group">
+                    <label>Ada:</label>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.Island, new { @class = "form-control" })
+                        <!-- /.input group -->
+                    </div>
+                    <!-- /.form group -->
+                    <!-- phone mask -->
+                </div>
+
+                <div class="form-group">
+                    <label> Parsel:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.Parcel, new { @class = "form-control" })
+                    </div>
+                    <!-- /.input group -->
+                </div>
+
+                <div class="form-group">
+                    <label> Araç Plakaları:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.VehiclePlaka, new { @class = "form-control" })
+                    </div>
+                    <!-- /.input group -->
+                </div>
+
+
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.form-group -->
+    </div>
+    <div class="col-12 col-sm-4">
+        <div class="card card-success">
+            <div class="card-header">
+                <h3 class="card-title">Diger Bilgiler</h3>
+            </div>
+            <div class="card-body">
+
+                <div class="form-group">
+                    <label>Atık Cinsi:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="far fa-list-alt"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.Atıkcinsi, new { @class = "form-control" })
+
+                    </div>
+                    <!-- /.input group -->
+                </div>
+                <!-- /.form group -->
+                <!-- Date mm/dd/yyyy -->
+                <div class="form-group">
+                    <label>Kazı Miktarı:</label>
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.Kazı, new { @class = "form-control" })
+                        <!-- /.input group -->
+                    </div>
+                    <!-- /.form group -->
+                    <!-- phone mask -->
+                </div>
+
+                <div class="form-group">
+                    <label> Dolgu Miktarı:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.Dolgu, new { @class = "form-control" })
+                    </div>
+                    <!-- /.input group -->
+                </div>
+
+                <div class="form-group">
+                    <label> Belge Adı:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.DocumentName, new { @class = "form-control" })
+                    </div>
+                    <!-- /.input group -->
+                </div>
+                <div class="form-group">
+                    <label> Tarih:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.OnayDate, new { @class = "form-control" })
+                    </div>
+                    <!-- /.input group -->
+                </div>
+                <div class="form-group">
+                    <label> Belge Resim:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                        </div>
+                        @Html.TextBoxFor(x => x.DocumentPhoto, new { @class = "form-control" })
+                    </div>
+                    <!-- /.input group -->
+                </div>
+
+                <div class="form-group">
+                    <label> Not yazın:</label>
+
+                    <div class="input-group">
+                        <div class="input-group-prepend">
+                            <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                        </div>
+                        @Html.TextAreaFor(x => x.Note, new { @class = "form-control" })
+                    </div>
+                    <!-- /.input group -->
+                </div>
+
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.form-group -->
+    </div>
+    <!-- /.col -->
+</div>
+    <!-- /.row -->
+
+
+
+    <button class="btn btn-info" style="margin-left:600px;"> Güncelle</button>
+    <br />
+    <br />
+    <br />
+}
+
+

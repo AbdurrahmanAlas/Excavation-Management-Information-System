@@ -1,0 +1,221 @@
+﻿@model EntityLayer.Concrete.Vehicle
+@{
+    ViewData["Title"] = "WriterEditProfile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<form class="form-group" method="post" enctype="multipart/form-data">
+
+    <div class="row">
+        <div class="col-12 col-sm-6">
+
+            <div class="card card-primary">
+                <div class="card-header">
+                    <h3 class="card-title">Firma Bilgileri</h3>
+                </div>
+                <div class="card-body">
+                    <!-- Date dd/mm/yyyy -->
+                    <div class="form-group">
+                        <label>Firma ID:</label>
+
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-laptop"></i></span>
+                            </div>
+                            @Html.TextBoxFor(x => x.VehicleId, new { @class = "form-control" })
+
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+                    <div class="form-group">
+                        <label>Firma Adı:</label>
+
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-laptop"></i></span>
+                            </div>
+                            @Html.DropDownListFor(x => x.CompanyId, (List<SelectListItem>)ViewBag.cv, new { @class = "form-control" })
+                        </div>
+
+                        <!-- /.input group -->
+                    </div>
+                    <div class="form-group">
+                        <label>Arac Plaka:</label>
+
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-laptop"></i></span>
+                            </div>
+                            @Html.TextBoxFor(x => x.VehiclePlaka, new { @class = "form-control" })
+
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+                    <!-- /.form group -->
+                    <!-- Date mm/dd/yyyy -->
+                    <div class="form-group">
+                        <div class="input-group">
+                            <label>Dara:</label>
+                            <div class="input-group">
+
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                                </div>
+                                @Html.TextBoxFor(x => x.VehicleDara, new { @class = "form-control" })
+
+                            </div>
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+                    <!-- /.form group -->
+                    <!-- phone mask -->
+                    <div class="form-group">
+                        <label>HGS:</label>
+
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-book"></i></span>
+                            </div>
+                            @Html.TextBoxFor(x => x.VehicleHGS, new { @class = "form-control" })
+
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+                    <!-- /.form group -->
+                    <!-- phone mask -->
+                    <div class="form-group">
+                        <label>Email Adresi:</label>
+
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-calculator"></i></span>
+                            </div>
+                            @Html.TextBoxFor(x => x.VehicleIMEI, new { @class = "form-control" })
+
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+                    <!-- /.form group -->
+                    <!-- IP mask -->
+                    <!-- /.form group -->
+
+                </div>
+                <!-- /.card-body -->
+            </div>
+        </div>
+        <!-- /.col -->
+        <div class="col-12 col-sm-6">
+            <div class="card card-success">
+                <div class="card-header">
+                    <h3 class="card-title">Adres Bilgileri</h3>
+                </div>
+                <div class="card-body">
+                    <!-- Date dd/mm/yyyy -->
+                    <!--<div class="form-group">
+                    <label>İlçe:</label>
+
+                    <div >
+                        <div >
+                            <span ><i class="fas fa-laptop"></i></span>
+                        </div>
+                       Html.DropDownListFor(x=>x.CompanyId,(List<SelectListItem>)ViewBag.cv,new { class = "form-control" })
+
+                    </div>-->
+                    <!-- /.input group -->
+                    <!--</div>-->
+                    <div class="form-group">
+                        <label>Adres:</label>
+
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="far fa-list-alt"></i></span>
+                            </div>
+                            @Html.TextAreaFor(x => x.VehiclePlaka, new { @class = "form-control" })
+
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+                    <!-- /.form group -->
+                    <!-- Date mm/dd/yyyy -->
+                    <div class="form-group">
+                        <label>Firma Kategori:</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                            </div>
+                            @Html.TextBoxFor(x => x.VehicleModel, new { @class = "form-control" })
+                            <!-- /.input group -->
+                        </div>
+                        <!-- /.form group -->
+                        <!-- phone mask -->
+                    </div>
+                    <div class="form-group">
+                        <label>Model yılı:</label>
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                            </div>
+                            @Html.TextBoxFor(x => x.VehicleYear, new { @class = "form-control" })
+                            <!-- /.input group -->
+                        </div>
+                        <!-- /.form group -->
+                        <!-- phone mask -->
+                    </div>
+                    <div class="form-group">
+                        <label> Firma iletişim No:</label>
+
+                        <div class="input-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-calendar-alt"></i></span>
+                            </div>
+                            @Html.TextBoxFor(x => x.VehicleIzinBitis, new { @class = "form-control" })
+                        </div>
+                        <!-- /.input group -->
+                    </div>
+                    <div class="form-group">
+                        <label>Araç Resim :</label>
+
+                        <div class="form-group">
+                            <div class="input-group">
+                                <label>Dekont Belge Yükle:</label>
+                                <input type="file" name="VehicleBrand" id="uploadBox" multiple class="form-control" />
+                            </div>
+                            <div class="col-md-3">
+
+                                <a href="~/imageBalance/@Model.VehicleBrand">  <img src="~/imageBalance/@Model.VehicleBrand" style="height:200px;width:310px;" alt="..."></a>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+                <!-- /.card-body -->
+            </div>
+            <!-- /.form-group -->
+        </div>
+        <!-- /.col -->
+    </div>
+    <button class="btn btn-info" style="margin-left:600px;"> + Firmayı Kaydet</button>
+    <br />
+</form>
+<!-- /.row -->
+
+
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+<script>
+    function validateInput() {
+        if (document.getElementById("uploadBox").value == "") {
+            swal("Hata", "Resim Seç", "hata");
+            return false;
+        }
+        return true;
+    }
+</script>
+

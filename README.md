@@ -1,2 +1,2 @@
-# Excavation-Management-Information-System
- HYBS(EMIS)
+# Hafriyat-Yonetim-Bilgi-Sistemi
+ Hafriyat Yönetim Bilgi Sistemi

@@ -1,0 +1,139 @@
+﻿
+@{
+    ViewData["Title"] = "CompanyBalanceIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@using EntityLayer.Concrete
+@model List<Company>
+
+
+
+
+<div class="card  card-success card-outline">
+    <div class="card-header">
+        <h3 class="card-title" style="color:blue"><b> HAFRİYAT FİRMALARI LİSTESİ</b>  <a href="/Company/CompanyAdd" class="badge btn-warning" style="margin-left:900px;font-size:18px;"> +Firma Ekle</a></h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body card  card-success card-outline">
+        <table id="example1" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Firma Adı</th>
+                    <th>Vergi No</th>
+                    <th>Vergi Dairesi</th>
+                    <th>FirmaTip</th>
+
+                    <th>Firma Address</th>
+                    <th>FirmaEmail</th>
+
+                    <th>FirmaGrup</th>
+                    <th>FirmaDetay</th>
+                    <th>Güncell/Sil</th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+    <tr>
+        <td><b>» @k.CompanyName</b></td>
+
+
+
+
+        <td>@k.TexNumber</td>
+        <td>@k.CompanyTaxOffice</td>
+
+        <td>@k.CompanyTip</td>
+        <td>@k.CompanyAddress</td>
+        <td>@k.CompanyEmail</td>
+        <td>@k.CompanyGroup</td>
+        <td><a href="/Company/CompanyReadAll/@k.CompanyId" class="badge btn-primary" style="font-size: 14px;">✚FirmaDetay</a></td>
+
+        <td>
+            <a href="/Company/EditCompany/@k.CompanyId" class="badge btn-info" style="font-size: 15px;" }>Güncelle</a>
+            <a href="/Company/DeleteCompany/@k.CompanyId" class="badge btn-danger" style="font-size: 15px;" , new { onclick="return confirm('Silmek istiyor musunuz?')" }>Sil</a>
+        </td>
+
+
+
+
+    </tr>}
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Firma Adı</th>
+                    <th>Vergi No</th>
+                    <th>Vergi Dairesi</th>
+                    <th>FirmaTip</th>
+
+                    <th>Firma Address</th>
+                    <th>FirmaEmail</th>
+
+                    <th>FirmaGrup</th>
+                    <th>FirmaGrup</th>
+                    <th>FirmaGrup</th>
+
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>
+
+@await Component.InvokeAsync("VehicleList")
+
+
+
+
+@*<button type="button" id="btngetlist" class="btn btn-outline-primary">CompanyListesi</button>
+    <br />
+    <br />
+    <div id="btngetlist">Buraya Company gelir</div>*@
+
+
+@*@section scripts{
+        <script>
+            $("#btngetlist").click(function () {
+
+                $.ajax({
+
+                    contentType: "application/json",
+                    dataType: "json",
+                    type: "Get",
+                    url: "/Company/CompanyList/",
+                    success: function (func) {
+                        let w = JQuery.parseJSON(func);
+                        console.log(w);
+                        let tablehtml = "<table class=table table-bordered> <tr><th>Firma ID</th><th>Firma Adı</th></tr>";
+                        $.each(w, (index, value) => {
+                            tablehtml += `<tr><td>${value.CompanyId}</td><td>${value.CompanyName}</td></tr>`
+
+
+                        });
+
+                        tablehtml += "</table>";
+                        $("#btngetlist").html(tablehtml);
+
+
+
+
+
+                    }
+                });
+
+
+
+
+            });
+
+
+        </script>
+
+
+    }*@
+

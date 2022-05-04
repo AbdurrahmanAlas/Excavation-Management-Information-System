@@ -1,0 +1,80 @@
+﻿
+@model IEnumerable<EntityLayer.Concrete.Punishment>
+@{
+    ViewData["Title"] = "CezaDetay";
+    Layout = "~/Views/Shared/_yenilayout.cshtml";
+}
+
+
+
+<div class="tab-pane active" id="home" role="tabpanel">
+    <div class="card-body">
+        <table id="example" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>FirmaAdı</th>
+                    <th>Telefon</th>
+
+                    <th>İlçe</th>
+                    <th>Adres</th>
+                    <th>EMail</th>
+
+                    <th>VergiNo</th>
+                    <th>VergiDairesi</th>
+                    <th>İşlemler</th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+
+                    <tr style="background-color:ivory">
+
+                        <td style="background-color:#bfebea"><b>»@k.CezaId</b></td>
+
+                        <td>@k.CezaDate</td>
+                        <td>@k.CezaTeam</td>
+                        <td>@k.CezaPhoto</td>
+
+                        <td>@k.CezaAmont</td>
+                        <td>@k.Company.CompanyName</td>
+                 
+
+
+                        <td><a href="/Satıs/YenıSatıs/@k.CezaId" class="badge btn-info" style="font-size: 15px;">✚Bakiye Yükle</a></td>
+
+                        <td>
+                            <a href="/Company/CompanyDelete/@k.CezaId" style="font-size: 13px;" class="badge btn-danger"><i class="fas glyphicon-fast-backward"></i> Sil</a>
+
+                        </td>
+
+
+
+
+
+
+                    </tr>
+
+                }
+
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>FirmaAdı</th>
+                    <th>Telefon</th>
+
+                    <th>İlçe</th>
+                    <th>Adres</th>
+                    <th>EMail</th>
+
+                    <th>VergiNo</th>
+                    <th>VergiDairesi</th>
+                    <th>İşlemler</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+

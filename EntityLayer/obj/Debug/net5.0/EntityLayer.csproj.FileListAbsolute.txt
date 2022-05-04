@@ -1,0 +1,108 @@
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache

@@ -1,0 +1,103 @@
+﻿@using EntityLayer.Concrete
+@model List<Punishment>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+
+
+
+<div class="card  card-info card-outline">
+    <div class="card-header">
+        <h3 class="card-title" style="color:blue"><b> İDARİ YAPTIRIM UYGULANAN  FİRMA LİSTESİ</b> <a href="/Ceza/CezaAdd" class="badge btn-success" style="margin-left:800px;font-size:18px;"> +Ceza Ekle</a></h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card  card-info card-outline">
+
+        <table id="example1" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Firma</th>
+                    <th>Tarih</th>
+
+                    <th>DökümanAdı</th>
+                    <th>Ceza Yazan Ekip</th>
+
+                    <th>Ceza Miktarı</th>
+                    <th>Adres/Açıklama</th>
+                    <th>AraçPlaka</th>
+
+                   
+
+                    <th>Güncelle/sil</th>
+                    <th>Görüntüle</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+                <tr>
+                    <td style="background-color:#bfebea"><b>»@k.Company.CompanyName</b></td>
+
+                    <td>
+                        @(((DateTime)
+                          k.CezaDate).ToString("dd-MMM-yyyy"))
+                    </td>
+
+
+                    <td>@k.DocumentName</td>
+                    <td>@k.CezaTeam</td>
+
+                    <td>@k.CezaAmont</td>
+                    <td>@k.Description</td>
+
+
+                    <td>@k.Plaka</td>
+
+                    <td>
+                        <a href="/Ceza/EditCeza/@k.CezaId" class="badge btn-info" style="font-size: 15px;" }>↻ Güncelle</a>
+                        <a href="/Ceza/DeleteCeza/@k.CezaId" class="badge btn-danger" style="font-size: 15px;" , new { onclick="return confirm('Silmek istiyor musunuz?')" }>✘Sil</a>
+                    </td>
+                    <td>
+                     
+                        <div class="col-md-3">
+                            <a href="~/imageFiles/@k.CezaPhoto">    <img src="~/imageFiles/@k.CezaPhoto" style="height:110px;width:210px;" alt="..."></a>
+                        </div>
+                        
+
+                    </td>
+
+                </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Firma</th>
+                    <th>Tarih</th>
+
+                    <th>DökümanAdı</th>
+                    <th>Ceza Yazan Ekip</th>
+
+                    <th>Ceza Miktarı</th>
+                    <th>Adres/Açıklama</th>
+                    <th>AraçPlaka</th>
+
+
+
+                    <th>Güncelle/sil</th>
+                    <th>Görüntüle</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>
+
+
+
+

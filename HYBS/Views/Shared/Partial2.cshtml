@@ -1,0 +1,70 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Company>
+<div class="table table-bordered" id="profile" role="tabpanel">
+    <table>
+        <thead>
+            <tr>
+                <th>FirmaAdı</th>
+                <th>Telefon</th>
+
+                <th>İlçe</th>
+                <th>Adres</th>
+                <th>EMail</th>
+
+                <th>VergiNo</th>
+                <th>VergiDairesi</th>
+                <th>İşlemler</th>
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var k in Model)
+            {
+
+                <tr style="background-color:ivory">
+
+                    <td style="background-color:#bfebea"><b>»@k.CompanyName</b></td>
+
+                    <td>@k.CompanyName</td>
+                    <td>@k.CompanyDistrict</td>
+                    <td>@k.CompanyAddress</td>
+
+                    <td>@k.CompanyEmail</td>
+                    <td>@k.TexNumber</td>
+                    <td>@k.CompanyTaxOffice</td>
+
+
+                   
+
+                    <td>
+                        <a href="/Company/CompanyDelete/@k.CompanyId" style="font-size: 13px;" class="badge btn-danger"><i class="fas glyphicon-fast-backward"></i> Sil</a>
+
+                    </td>
+
+
+
+
+
+
+                </tr>
+
+            }
+
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>FirmaAdı</th>
+                <th>Telefon</th>
+
+                <th>İlçe</th>
+                <th>Adres</th>
+                <th>EMail</th>
+
+                <th>VergiNo</th>
+                <th>VergiDairesi</th>
+                <th>İşlemler</th>
+            </tr>
+        </tfoot>
+    </table>
+
+</div>

@@ -1,0 +1,118 @@
+﻿@using EntityLayer.Concrete
+@model List<OtherStructure>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+<div class="card  card-warning card-outline">
+    <div class="card-header">
+        <h3 class="card-title" style="color:blue"><b> HARİCİ KAZI İŞ TALEPLERİ LİSTESİ</b>  <a href="/OtherStructure/AddOtherStructure" class="badge btn-success" style="margin-left:800px;font-size:18px;"> +Harici Kazı iş Talebi Ekle</a></h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body card  card-primary card-outline">
+        <table id="example1" class="table table-bordered table-warning">
+            <thead>
+                <tr>
+                    <th>Firma Adı</th>
+
+                    <th>Ruhsat No</th>
+                    <th>Üretici Adı</th>
+
+                    <th>Onay Tarihi</th>
+                    <th>Üretici Adres</th>
+                    <th>İlçe<br />Ada/Parsel</th>
+
+
+                    @*<th>Kazı/Dolgu(m3)</th>*@
+                    <th>FirmaDetay</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+                <tr>
+                    <td><b>» @k.Company.CompanyName</b></td>
+
+
+
+
+
+                    <td>@k.TalepEden</td>
+
+                    <td>@k.Phone</td>
+                    <td>
+                        @(((DateTime)
+                          k.Tarih).ToString("dd-MMM-yyyy"))
+                    </td>
+                    <td>@k.mahalle</td>
+     
+                    <td>
+                        @k.District<br />
+                        @k.StartIsland/@k.StartParcel
+                    </td>
+
+
+
+
+
+
+                    <td>
+                        <a href="/OtherStructure/Index/@k.OtherStructureId" class="badge btn-primary" style="font-size: 14px;">✚FirmaDetay</a>
+
+
+                    </td>
+
+                    <td>
+                        <a href="/OtherStructure/EditStructure/@k.OtherStructureId" class="badge btn-info" style="font-size: 15px;" }>Güncelle</a>
+                    </td>
+                    <br />
+                    <td>
+                        <a href="/OtherStructure/DeleteOtherStructure/@k.OtherStructureId" class="badge btn-danger" style="font-size: 15px;" , new { onclick="return confirm('Silmek istiyor musunuz?')" }>Sil</a>
+                    </td>
+
+
+
+
+                </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Firma Adı</th>
+
+                    <th>Ruhsat No</th>
+                    <th>Üretici Adı</th>
+
+                    <th>Onay Tarihi</th>
+                    <th>Üretici Adres</th>
+                    <th>İlçe<br />Ada/Parsel</th>
+
+
+                    @*<th>Kazı/Dolgu(m3)</th>*@
+                    <th>FirmaDetay</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+
+
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>
+
+
+
+
+
+
+

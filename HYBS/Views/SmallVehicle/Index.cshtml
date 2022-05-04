@@ -1,0 +1,100 @@
+﻿@using EntityLayer.Concrete
+@model IEnumerable<SmallVehicle>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header card-warning card-outline">
+        <h1 class="card-title" style="color:blue"><b>SİSTEMDEKİ KÜÇÜK ARAÇ LİSTESİ</b><a href="/SmallVehicle/Balance" class="badge btn-primary" style="margin-left:900px;font-size:18px;"> Yapılan iş listesi</a> <br /> <a href="/SmallVehicle/AddSmallVehicle" class="badge btn-success" style="margin-left:900px;font-size:18px;"> +Küçük Araç Ekle</a></h1>
+  
+    
+    
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body ">
+        <table id="example1" class="table table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>AdSoyad</th>
+
+                    <th>T.C/VergiNo</th>
+                    <th>Telefon No</th>
+                    <th>Arac Plaka</th>
+                    <th>Araç Tipi</th>
+
+                    <th>Bakiye Sil</th>
+                    <th>Kalan Stok Sayısı(Arac)</th>
+                    <th>BakiyeYükle</th>
+                    <th>Sil</th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+                <tr>
+                    <td><b> @k.Name @k.Surname</b></td>
+
+                    <td>@k.VergiNo</td>
+
+                    <td>@k.Phone</td>
+
+                    <td>@k.Plaka</td>
+                    <td>
+                        @k.SmallVehicleType
+
+                    </td>
+                    <td>
+                        <a href="/SmallVehicle/EditSmallVehicle/@k.SmallVehicleId" class="badge btn-primary" style="font-size: 14px;">-BakiyeSil</a>
+
+
+                    </td>
+                    <td style="color:blue">
+                        <h5> @k.Balance adet</h5>
+
+                    </td>
+
+
+
+                    <td>
+                        <a href="/SmallVehicle/AddBalance/@k.SmallVehicleId" class="badge btn-success" style="font-size: 14px;">✚BakiyeYükle</a>
+
+
+                    </td>
+
+
+                    <td>
+
+                        <a href="/SmallVehicle/DeleteSmallVehicle/@k.SmallVehicleId" class="badge btn-danger" style="font-size: 15px;" , new { onclick="return confirm('Silmek istiyor musunuz?')" }>Sil</a>
+                    </td>
+
+
+
+
+                </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>AdSoyad</th>
+
+                    <th>T.C/VergiNo</th>
+                    <th>Telefon No</th>
+                    <th>Arac Plaka</th>
+                    <th>Araç Tipi</th>
+
+                    <th>Bakiye Sil</th>
+                    <th>Kalan Stok Sayısı(Arac)</th>
+                    <th>BakiyeYükle</th>
+                    <th>Sil</th>
+
+
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>

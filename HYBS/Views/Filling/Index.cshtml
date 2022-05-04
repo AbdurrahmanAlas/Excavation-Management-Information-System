@@ -1,0 +1,117 @@
+﻿@using EntityLayer.Concrete
+@model List<Filling>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+
+<div class="card  card-primary card-outline">
+    <div class="card-header">
+        <h3 class="card-title" style="color:blue"><b> DOLGU  İŞ TALEPLERİ LİSTESİ</b>  <a href="/Filling/FillingAdd" class="badge btn-dark" style="margin-left:800px;font-size:18px;"> +İnşaat Dolgu Talebi Ekle</a></h3>
+    </div>
+    <h2 class="card-title" style="margin-left:110px"><b> </b> <b class="btn btn-success">KAZI TOPLAM : @ViewBag.kazıtoplam m^3 </b> </h2>
+    <br />
+    <h2 class="card-title" style="margin-left:110px"><b> </b> <b class="btn btn-warning">DOLGU TOPLAM : @ViewBag.dolgutoplam  m^3</b> </h2>
+    <!-- /.card-header --><br />
+    <div class="card-body card  card-primary card-outline">
+        <table id="example1" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Firma Adı</th>
+                    <th>Telefon</th>
+
+                    <th>TalepEden</th>
+
+
+                    <th>Onay Tarihi</th>
+
+                    <th>İlçe<br />Ada/Parsel</th>
+                    <th>Bitiş İlçe<br />Ada/Parsel</th>
+
+
+                    <th>Kazı/Dolgu(m3)</th>
+
+                    <th>FirmaDetay</th>
+
+                    <th>Araç Plakası</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+                <tr>
+                    <td><b> @k.Company.CompanyName</b></td>
+                    <td><b> @k.Phone</b></td>
+
+
+                    <td>@k.TalepEden</td>
+
+                    @*<td>@k.Phone</td>*@
+                    <td>
+                        @(((DateTime)
+                          k.Tarih).ToString("dd-MMM-yyyy"))
+                    </td>
+                    <td>@k.StartDistrict <br />BaşlangıcAda:@k.StartIsland<br />BaşlangıçParsel:@k.StartParcel</td>
+                    <td>@k.FınıshDıstrıct<br />Bitiş Ada:@k.FınıshIsland<br />Bitiş Parsel:@k.FınıshParcel</td>
+
+                    <td>@k.Kazı/@k.Dolgu m^3</td>
+
+
+
+
+
+                    <td>
+                        <a href="/Company/CompanyReadAll/@k.FillingId" class="badge btn-success" style="font-size: 14px;">✚FirmaDetay</a>
+                        <br /> <a href="/Filling/EditFilling/@k.FillingId" class="badge btn-info" style="font-size: 15px;" }>Güncelle</a>
+                        <br />
+                        <a href="/Filling/DeleteFilling/@k.FillingId" class="badge btn-danger" style="font-size: 15px;" , new { onclick="return confirm('Silmek istiyor musunuz?')" }>Sil</a>
+
+                    </td>
+
+                    <td>AraçPlakaları:@k.Vehicle</td>
+
+
+
+                </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Firma Adı</th>
+                    <th>Telefon</th>
+
+                    <th>TalepEden</th>
+
+
+                    <th>Onay Tarihi</th>
+
+                    <th>İlçe<br />Ada/Parsel</th>
+                    <th>Bitiş İlçe<br />Ada/Parsel</th>
+
+
+                    <th>Kazı/Dolgu(m3)</th>
+                    <th>Araç Plakası</th>
+                    <th>FirmaDetay</th>
+
+
+
+
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>
+
+
+
+
+
+
+

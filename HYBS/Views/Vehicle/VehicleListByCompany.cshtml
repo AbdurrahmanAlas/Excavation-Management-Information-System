@@ -1,0 +1,81 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Vehicle>
+@{
+    ViewData["Title"] = "VehicleListByCompany";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="tab-pane active" id="home" role="tabpanel">
+    <div class="card-body">
+        <table id="example" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <th>FirmaAdı</th>
+                    <th>Telefon</th>
+
+                    <th>İlçe</th>
+                    <th>Adres</th>
+                    <th>EMail</th>
+
+                    <th>VergiNo</th>
+                    <th>VergiDairesi</th>
+                    <th>İşlemler</th>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+
+                    <tr style="background-color:ivory">
+
+                        <td style="background-color:#bfebea"><b>»@k.VehicleBrand</b></td>
+
+                        <td>@k.VehiclePlaka</td>
+                        <td>@k.VehicleModel</td>
+                        <td>@k.VehicleTip</td>
+
+                        <td>@k.VehicleHGS</td>
+                        <td>@k.VehicleIMEI</td>
+                        <td>@k.VehicleYear</td>
+                        <td>@k.Company.CompanyName</td>
+
+
+
+                        <td><a href="/Satıs/YenıSatıs/@k.VehicleId" class="badge btn-info" style="font-size: 15px;">✚Bakiye Yükle</a></td>
+
+                        <td>
+                            <a href="/Company/CompanyDelete/@k.VehicleId" style="font-size: 13px;" class="badge btn-danger"><i class="fas glyphicon-fast-backward"></i> Sil</a>
+
+                        </td>
+
+
+
+
+
+
+                    </tr>
+
+                }
+
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>FirmaAdı</th>
+                    <th>Telefon</th>
+
+                    <th>İlçe</th>
+                    <th>Adres</th>
+                    <th>EMail</th>
+
+                    <th>VergiNo</th>
+                    <th>VergiDairesi</th>
+                    <th>İşlemler</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+
+@await Component.InvokeAsync("VehicleListByCompany")

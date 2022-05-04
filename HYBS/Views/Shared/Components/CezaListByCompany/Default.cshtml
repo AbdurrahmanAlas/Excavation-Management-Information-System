@@ -1,0 +1,70 @@
+﻿
+@model IEnumerable<EntityLayer.Concrete.Punishment>
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title" style="color:blue"><b> FİRMA CEZALARI LİSTESİ</b></h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body">
+        <table id="example1" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                  
+              
+             
+               
+
+                    <th>Ceza YazanEkip</th>
+                    <th>Açıklama</th>
+
+                    <th>Döküman Adı</th>
+                    
+                    <th>Ceza Miktarı</th>
+                    <th>Ceza Tarihi</th>
+                  
+                    <th>Sil</th>
+                    <th>Görüntüle</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+                <tr>
+
+
+
+
+
+
+
+                    
+
+                
+                    <td>@k.CezaTeam</td>
+                    <td>@k.Description</td>
+                    <td>@k.DocumentName</td>
+                    <td>@k.CezaAmont</td>
+                    <td>@k.CezaDate</td>
+
+                    <td>
+                        <a href="/Company/DeleteCompanyDocument/@k.CompanyId" class="badge btn-danger" style="font-size: 15px;" , new { onclick="return confirm('Silmek istiyor musunuz?')" }>Sil</a>
+
+
+                    </td>
+                    <td>
+
+                        <div class="col-md-3">
+                            <a href="~/imageFiles/@k.CezaPhoto">    <img src="~/imageFiles/@k.CezaPhoto" style="height:200px;width:260px;" alt="..."></a>
+                        </div>
+
+
+                    </td>
+                </tr>
+                }
+            </tbody>
+           
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>

@@ -1,0 +1,106 @@
+﻿@using EntityLayer.Concrete
+@model List<CompanyBalance>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="card card-warning card-outline">
+    <div class="card-header">
+        <h3 class="card-title" style="color:blue"><b> Firma Bakiye yükleme listesi </b> <a href="/CompanyBalance/CompanyBalanceAdd" class="badge btn-success" style="margin-left:800px;font-size:18px;"> +Firma Bakiye Yükle </a></h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body">
+
+        <table id="example1" class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Firma adı</th>
+                    <th>Yüklenen Tarih</th>
+
+                    <th>Yüklenen Araç Miktarı</th>
+                    <th>Adres/Açıklama</th>
+
+                    <th>Ada</th>
+
+
+                    <th>Parsel</th>
+                    <th>TahakkukMiktarı</th>
+                    <th>Dolgu alanı</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+            
+                   
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+                <tr>
+                    <td ><b>@k.Company.CompanyName</b></td>
+
+                    <td>
+                        @(((DateTime)
+                          k.DateTime).ToString("dd-MMM-yyyy"))
+                    </td>
+
+
+                    <td>@k.miktar</td>
+                    <td>@k.District</td>
+                    <td>@k.Island</td>
+                    <td>@k.Parcel</td>
+
+
+                    <td>@k.Amount</td>
+                    <td>@k.FillArea</td>
+
+
+
+
+                    <td>
+                        <a href="/CompanyBalance/EditCompanyBalance/@k.CompanyBalanceID" class="badge btn-info" style="font-size: 15px;" }>↻ Güncelle</a>
+                    </td>
+                    <td>
+                        <a href="/CompanyBalance/DeleteCompanyBalance/@k.CompanyBalanceID" class="badge btn-danger" style="font-size: 15px;" , new { onclick="return confirm('Silmek istiyor musunuz?')" }>✘Sil</a>
+                    </td>
+                    @*<td><a href="~/imageBalance/@k.DocumentPhoto" class="badge btn-success">◘Görüntüle </a></td>*@
+                   <!--<td style="color:#34b924">Belge Yüklendi</td>-->
+    
+                    @*<td>
+
+                        <div class="col-md-3">
+                    
+                            <a href="~/imageBalance/@k.DocumentPhoto">  <img src="~/imageBalance/@k.DocumentPhoto" style="height:110px;width:150px;" alt="..."></a>
+                        </div>
+
+
+                    </td>*@
+
+
+                </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Firma adı</th>
+                    <th>Yüklenen Tarih</th>
+
+                    <th>Yüklenen Araç Miktarı</th>
+                    <th>Adres/Açıklama</th>
+
+                    <th>Ada</th>
+
+
+                    <th>Parsel</th>
+                    <th>TahakkukMiktarı</th>
+                    <th>Dolgu alanı</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>

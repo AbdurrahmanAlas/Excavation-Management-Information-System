@@ -1,0 +1,1585 @@
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\appsettings.json
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.exe
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.deps.json
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.json
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ref\HYBS.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\scopedcss\bundle\HYBS.styles.css
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.input.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.output.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorCoreGenerate.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.Views.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CopyComplete
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\ref\HYBS.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Web.config
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Web.Debug.config
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Web.Release.config
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\libman.json
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\PartialAddVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleList\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Web.config
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Web.Debug.config
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Web.Release.config
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\appsettings.json
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\libman.json
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.exe
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.deps.json
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.json
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.dev.json
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ref\HYBS.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfo.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cache
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.Manifest.cache
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.xml
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\scopedcss\bundle\HYBS.styles.css
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.input.cache
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.output.cache
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorCoreGenerate.cache
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleList\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\PartialAddVehicle.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cache
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cs
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.Views.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CopyComplete
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\ref\HYBS.dll
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.genruntimeconfig.cache
+C:\Users\aalas\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyReadAll.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Web.config
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Web.Debug.config
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Web.Release.config
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\appsettings.json
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\libman.json
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.exe
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.deps.json
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.json
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.dev.json
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ref\HYBS.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfo.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.Manifest.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.xml
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\scopedcss\bundle\HYBS.styles.css
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.input.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.output.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorCoreGenerate.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyReadAll.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleList\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\PartialAddVehicle.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.Views.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CopyComplete
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\ref\HYBS.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\HYBS.genruntimeconfig.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_yenilayout.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FırmaBilgiler.cshtml.g.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaDetay.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaDetay.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyReadAll.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FirmaBilgiler.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FırmaBilgiler.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_yenilayout.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaReadAll.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany1.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\CezaListByCompany\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaDetay.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaReadAll.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FirmaBilgiler.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FırmaBilgiler.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\CezaListByCompany\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleListByCompany\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_yenilayout.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany1.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\DocumentListByCompany\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\hybs\hybs\HYBS\obj\Debug\net5.0\Razor\Views\Company\EditCompany.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\scopedcss\bundle\HYBS.styles.css
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.input.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.output.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorCoreGenerate.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\ref\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.config
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.Debug.config
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.Release.config
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\appsettings.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\libman.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.exe
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ref\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaDetay.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaReadAll.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyReadAll.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\EditCompany.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FirmaBilgiler.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FırmaBilgiler.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\CezaListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\DocumentListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleList\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_yenilayout.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\PartialAddVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany1.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.Views.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\EditVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\StructureAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\EditStructure.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\FillingAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\EditFilling.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\AddOtherStructure.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\AddAltyapı.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\EditAltyapı.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\AddSmallVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\Balance.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\AddBalance.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\EditSmallVehicle.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.config
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.Debug.config
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.Release.config
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\appsettings.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\libman.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.exe
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.deps.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.dev.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ref\HYBS.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.Manifest.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.xml
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\scopedcss\bundle\HYBS.styles.css
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.input.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.output.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorCoreGenerate.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\AddAltyapı.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\EditAltyapı.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaDetay.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaReadAll.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyReadAll.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\EditCompany.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FirmaBilgiler.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FırmaBilgiler.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\EditFilling.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\FillingAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\AddOtherStructure.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\CezaListByCompany\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\DocumentListByCompany\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleListByCompany\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleList\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_yenilayout.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\AddBalance.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\AddSmallVehicle.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\Balance.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\EditSmallVehicle.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\EditStructure.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\StructureAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\PartialAddVehicle.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany1.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.Views.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CopyComplete
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\ref\HYBS.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.genruntimeconfig.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\EditCeza.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\AddHeading.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\EditHeading.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Content\ContentByHeading.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Content\AddContent.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\EditVehicle.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyDocumentAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\EditStructure.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\CompanyBalanceAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.config
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.Debug.config
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.Release.config
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\appsettings.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\libman.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.exe
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ref\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\scopedcss\bundle\HYBS.styles.css
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.input.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.output.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorCoreGenerate.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\AddAltyapı.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\EditAltyapı.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaDetay.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaReadAll.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\EditCeza.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\CompanyBalanceAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyDocumentAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyReadAll.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\EditCompany.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FirmaBilgiler.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FırmaBilgiler.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Content\AddContent.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Content\ContentByHeading.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\EditFilling.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\FillingAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\AddHeading.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\EditHeading.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\AddOtherStructure.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\EditStructure.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\CezaListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\DocumentListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleList\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_yenilayout.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\AddBalance.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\AddSmallVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\Balance.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\EditSmallVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\EditStructure.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\StructureAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\EditVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\PartialAddVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany1.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.Views.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\ref\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\EditCompanyBalance.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\StructureListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.config
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.Debug.config
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Web.Release.config
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\appsettings.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\libman.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.exe
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.deps.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.dev.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ref\HYBS.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.Manifest.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.xml
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\scopedcss\bundle\HYBS.styles.css
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.input.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.output.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorCoreGenerate.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\AddAltyapı.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\EditAltyapı.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaDetay.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaReadAll.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\EditCeza.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\CompanyBalanceAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\EditCompanyBalance.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyDocumentAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyReadAll.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\EditCompany.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FirmaBilgiler.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FırmaBilgiler.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Content\AddContent.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Content\ContentByHeading.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\EditFilling.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\FillingAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\AddHeading.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\EditHeading.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\AddOtherStructure.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\EditStructure.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\CezaListByCompany\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\DocumentListByCompany\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\StructureListByCompany\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleListByCompany\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleList\Default.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_yenilayout.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\AddBalance.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\AddSmallVehicle.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\Balance.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\EditSmallVehicle.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\EditStructure.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\Index.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\StructureAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\EditVehicle.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\PartialAddVehicle.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleAdd.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany1.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.Views.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CopyComplete
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\ref\HYBS.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\HYBS.genruntimeconfig.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\CompanyBalanceIndex.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Web.config
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Web.Debug.config
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Web.Release.config
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\appsettings.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\libman.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\HYBS.exe
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\HYBS.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\HYBS.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ref\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\HYBS.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\HYBS.Views.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorAssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\staticwebassets\HYBS.StaticWebAssets.xml
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\scopedcss\bundle\HYBS.styles.css
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.input.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.TagHelpers.output.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorCoreGenerate.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\AddAltyapı.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\EditAltyapı.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Altyapı\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaDetay.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\CezaReadAll.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\EditCeza.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\CompanyBalanceAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\CompanyBalanceIndex.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\EditCompanyBalance.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\CompanyBalance\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyDocumentAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\CompanyReadAll.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\EditCompany.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FirmaBilgiler.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\FırmaBilgiler.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Company\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Content\AddContent.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Content\ContentByHeading.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\EditFilling.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\FillingAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Filling\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\AddHeading.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\EditHeading.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Heading\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\AddOtherStructure.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\EditStructure.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\OtherStructure\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\CezaListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\DocumentListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\StructureListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleListByCompany\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Components\VehicleList\Default.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial1.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial2.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\Partial3.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Shared\_yenilayout.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\AddBalance.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\AddSmallVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\Balance.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\EditSmallVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\SmallVehicle\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\EditStructure.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Structure\StructureAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\EditVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\PartialAddVehicle.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleAdd.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\VehicleListByCompany1.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.Views.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\ref\HYBS.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\HYBS.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\RegisterUser\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Ceza\ProductEdit.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Login\AccessDenied.cshtml.g.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\obj\Debug\net5.0\Razor\Views\Vehicle\WriterEditProfile.cshtml.g.cs

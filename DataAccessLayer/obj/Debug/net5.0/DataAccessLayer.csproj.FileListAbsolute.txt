@@ -1,0 +1,144 @@
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\işyeri projeler\hybs\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\aalas\Desktop\HYBS12\HYBS12\HYBS12\HYBS\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.runtimeconfig.dev.json
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\HYBS12\HYBS12\HYBS\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.genruntimeconfig.cache

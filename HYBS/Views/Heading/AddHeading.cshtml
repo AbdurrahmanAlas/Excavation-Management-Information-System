@@ -1,0 +1,183 @@
+﻿@model EntityLayer.Concrete.Heading
+@{
+    ViewData["Title"] = "AddHeading";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card card-default">
+    <div class="card-header">
+        <h3 class="card-title">ŞİKAYET EKLEME SAYFASI</h3>
+
+        <div class="card-tools">
+            <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                <i class="fas fa-minus"></i>
+            </button>
+            <button type="button" class="btn btn-tool" data-card-widget="remove">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
+
+    <div class="col-md-6 contact-map" style="font-size:0px;">
+
+        <p style="font-size:10px;">  <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d199216.6450216887!2d35.32975514407441!3d38.723317007311884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x152b1222a3975b0b%3A0x868f66d494dc4abb!2sMevlana%2C%20Kayseri%20B%C3%BCy%C3%BCk%C5%9Fehir%20Belediyesi%20Ek%20Hizmet%20Binas%C4%B1%2C%2038090%20Kocasinan%2FKayseri!3m2!1d38.7332452!2d35.4891419!5e0!3m2!1str!2str!4v1610176542166!5m2!1str!2str" width="1300" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></p>
+    </div>
+    <!-- /.card-header -->
+    @using (Html.BeginForm("AddHeading", "Heading", FormMethod.Post))
+    {
+
+
+
+        <div class="row">
+            <div class="col-12 col-sm-6">
+
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">Firma Bilgileri</h3>
+                    </div>
+                    <div class="card-body">
+                        <!-- Date dd/mm/yyyy -->
+                        <div class="form-group">
+                            <label>Firma Adı:</label>
+
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-laptop"></i></span>
+                                </div>
+                                @Html.TextBoxFor(x => x.HeadingName, new { @class = "form-control" })
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+
+                        <div class="form-group">
+                            <label>AraçMarka:</label>
+
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-laptop"></i></span>
+                                </div>
+                                @Html.TextBoxFor(x => x.Phone, new { @class = "form-control" })
+
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+
+                        <div class="form-group">
+                            <label>Plaka:</label>
+
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-laptop"></i></span>
+                                </div>
+                                @Html.TextBoxFor(x => x.VehiclePlaka, new { @class = "form-control" })
+
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+                        <!-- /.form group -->
+                        <!-- Date mm/dd/yyyy -->
+                        <div class="form-group">
+                            <div class="input-group">
+                                <label>Şikayet Tarihi:</label>
+                                <div class="input-group">
+
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                                    </div>
+                                    @Html.TextBoxFor(x => x.HeadingDate, new { @class = "form-control", type = "date" })
+
+                                </div>
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+                        <!-- /.form group -->
+                        <!-- phone mask -->
+                        <!-- /.form group -->
+                        <!-- IP mask -->
+                        <!-- /.form group -->
+
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+            </div>
+            <!-- /.col -->
+            <div class="col-12 col-sm-6">
+                <div class="card card-success">
+                    <div class="card-header">
+                        <h3 class="card-title">Adres Bilgileri</h3>
+                    </div>
+                    <div class="card-body">
+                        <!-- Date dd/mm/yyyy -->
+                        <!--<div class="form-group">
+                        <label>İlçe:</label>
+
+                        <div >
+                            <div >
+                                <span ><i class="fas fa-laptop"></i></span>
+                            </div>
+                           Html.DropDownListFor(x=>x.CompanyId,(List<SelectListItem>)ViewBag.cv,new { class = "form-control" })
+
+                        </div>-->
+                        <!-- /.input group -->
+                        <div class="form-group">
+                            <label>Adres/Mahalle:</label>
+
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-book"></i></span>
+                                </div>
+                                @Html.TextBoxFor(x => x.HeadingAdres, new { @class = "form-control" })
+
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+
+
+                        <!-- /.form group -->
+                        <!-- phone mask -->
+                        <div class="form-group">
+                            <label>Ada:</label>
+
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-calculator"></i></span>
+                                </div>
+                                @Html.TextBoxFor(x => x.HeadingAda, new { @class = "form-control" })
+
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+                        <div class="form-group">
+                            <label> Parsel:</label>
+
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-phone"></i></span>
+                                </div>
+                                @Html.TextBoxFor(x => x.HeadingParsel, new { @class = "form-control" })
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+
+
+
+
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.form-group -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+
+
+
+        <button class="btn btn-info" style="margin-left:600px;"> + Şikayet Kaydet</button>
+        <br />
+        <br />
+        <br />
+    }
+
+
+

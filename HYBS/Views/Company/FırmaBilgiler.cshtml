@@ -1,0 +1,101 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Company>
+@{
+    ViewData["Title"] = "FırmaBilgiler";
+    Layout = "~/Views/Shared/_yenilayout.cshtml";
+}
+
+
+
+
+
+
+
+
+@foreach (var k in Model)
+{
+
+    <div class="col-md-10">
+        <div class="col-md-12 panel">
+            <div class="col-md-12 panel-heading">
+                <h4><a href="/Company/FırmaBilgiler/@k.CompanyId">FirmaBilgileri</a></h4>
+                <h4><a href="/Vehicle/VehicleListByCompany/@k.CompanyId">Araç Bilgileri</a></h4>
+            </div>
+            <div class="col-md-12 panel-body" style="padding-bottom:30px;">
+
+                <div class="col-md-12">
+                    <form class="cmxform" id="signupForm" method="get" action="">
+                        <div class="col-md-6">
+                            <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                                <input type="text" class="form-text" id="validate_firstname" name="validate_firstname" value="@k.CompanyName" required>
+                                <span class="bar"></span>
+                                <label></label>
+                            </div>
+
+                            <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                                <input type="text" class="form-text" id="validate_lastname" name="validate_lastname" value="@k.TexNumber" required>
+                                <span class="bar"></span>
+                                <label></label>
+                            </div>
+
+                            <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                                <input type="text" class="form-text" id="validate_username" name="validate_username" value="@k.CompanyTaxOffice" required>
+                                <span class="bar"></span>
+                                <label></label>
+                            </div>
+                            <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                                <input type="text" class="form-text" id="validate_username" name="validate_username" value="@k.CompanyEmail" required>
+                                <span class="bar"></span>
+                                <label></label>
+                            </div>
+                            <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                                <input type="text" class="form-text" id="validate_username" name="validate_username" value="@k.CompanyGroup" required>
+                                <span class="bar"></span>
+                                <label></label>
+                            </div>
+                        </div>
+
+                        <div class="col-md-6">
+                            <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                                <input type="text" class="form-text" id="validate_password" name="validate_password" value="@k.CompanyAddress" required>
+                                <span class="bar"></span>
+                                <label></label>
+                            </div>
+
+                            <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                                <input type="text" class="form-text" id="validate_confirm_password" name="validate_confirm_password" value="@k.CompanyEmail" required>
+                                <span class="bar"></span>
+                                <label></label>
+                            </div>
+
+                            <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                                <input type="text" class="form-text" id="validate_email" name="validate_email" value="@k.TexNumber" required>
+                                <span class="bar"></span>
+                                <label></label>
+                            </div>
+                            <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                                <input type="text" class="form-text" id="validate_email" name="validate_email" value="@k.EmployeeName" required>
+                                <span class="bar"></span>
+                                <label></label>
+                            </div>
+                            <div class="form-group form-animate-text" style="margin-top:40px !important;">
+                                <input type="text" class="form-text" id="validate_email" name="validate_email" value="@k.EmployeePhone" required>
+                                <span class="bar"></span>
+                                <label></label>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="form-group form-animate-checkbox">
+                                <input type="checkbox" class="checkbox" id="validate_agree" name="validate_agree">
+                                <label>Please agree to our policy</label>
+                            </div>
+                            <input class="submit btn btn-danger" type="submit" value="Submit">
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+

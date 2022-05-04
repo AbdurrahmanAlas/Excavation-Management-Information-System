@@ -1,0 +1,85 @@
+﻿@using EntityLayer.Concrete
+@model List<BalanceSmall>
+@{
+    ViewData["Title"] = "Balance";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title" style="color:blue"><b> KÜÇÜK ARAÇ İŞ LİSTESİ</b> </h3>
+    </div>
+   
+    <!-- /.card-header -->
+    <div class="card-body">
+        <table id="example1" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+
+                    <th>Talep Sahibi</th>
+                    <th>Tarih</th>
+
+
+                    <th>Araç plaka</th>
+                    <th>Araç Tipi</th>
+                    <th>TelefonNo</th>
+
+
+                    <th>İlçe/Mahalle</th>
+                    <th>Ada/Parsel</th>
+                    <th>Tahakkuk Miktar</th>
+                    <th>Araç Miktar</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+                    <tr>
+                        <td style="background-color:#bfebea"><b>@k.SmallVehicle.Name  @k.SmallVehicle.Surname</b></td>
+                        <td>
+                            @(((DateTime)
+                          k.Date).ToString("dd-MMM-yyyy"))
+                        </td>
+
+
+
+
+
+
+
+                        <td>@k.SmallVehicle.Plaka</td>
+                        <td>@k.SmallVehicle.SmallVehicleType</td>
+                        <td>@k.SmallVehicle.Phone</td>
+                        <td>@k.District</td>
+                        <td>@k.Island /@k.Parcel</td>
+                        <td>@k.TahakkukMiktarı</td>
+                        <td>@k.miktar</td>
+
+
+
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Talep Sahibi</th>
+                    <th>Tarih</th>
+
+
+                    <th>Araç plaka</th>
+                    <th>Araç Tipi</th>
+                    <th>TelefonNo</th>
+
+
+                    <th>İlçe/Mahalle</th>
+                    <th>Ada/Parsel</th>
+                    <th>Tahakkuk Miktar</th>
+                    <th>Araç Miktar</th>
+
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>
+

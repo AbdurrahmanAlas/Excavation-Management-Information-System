@@ -1,0 +1,116 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Vehicle>
+@{
+    ViewData["Title"] = "VehicleListByCompany1";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="card  card-warning card-outline">
+    <div class="card-header">
+        <h3 class="card-title" style="color:blue"><b> HAFRİYAT ARAÇLARI LİSTESİ</b>  <a href="/Vehicle/VehicleAdd" class="badge btn-success" style="margin-left:900px;font-size:18px;"> +Araç Ekle</a></h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card  card-warning card-outline">
+        <table id="example1" class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Firma Adı</th>
+
+                    <th>Araç Plaka</th>
+                    <th>Araç Model</th>
+
+
+                    <th>HGS no</th>
+                    <th>IMEI no</th>
+
+                    <th>Model Yılı</th>
+                    <th>İzinBitiş</th>
+                    <th>FirmaDetay</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+                    <th>Araç Fotograf</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var k in Model)
+                {
+                <tr style="background-color:ivory">
+
+
+                    <td>@k.Company.CompanyName</td>
+
+                    <td>@k.VehiclePlaka</td>
+                    <td>@k.VehicleModel</td>
+
+
+                    <td>@k.VehicleHGS</td>
+                    <td>@k.VehicleIMEI</td>
+                    <td>@k.VehicleYear</td>
+                    <td>@k.VehicleIzinBitis</td>
+
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <td><a href="/Company/CompanyReadAll/@k.CompanyId" class="badge btn-primary" style="font-size: 14px;">✦FirmaBilgileri</a></td>
+
+                    <td>
+                        <a href="/Vehicle/EditVehicle/@k.VehicleId" class="badge btn-info" style="font-size: 15px;">↻ Güncelle</a>
+                     </td>
+                    <td>
+                        <a href="/Vehicle/DeleteVehicle/@k.VehicleId" class="badge btn-danger" style="font-size: 15px;" , new { onclick="return confirm('Silmek istiyor musunuz?')" }>✘ Sil</a>
+                    </td>
+
+                      <td>
+
+                        <div class="col-md-3">
+
+                            <a href="~/imageBalance/@k.VehicleBrand">  <img src="~/imageBalance/@k.VehicleBrand" style="height:200px;width:310px;" alt="..."></a>
+                        </div>
+
+
+                    </td>
+
+
+                </tr>
+}
+            </tbody>
+            <tfoot>
+                <tr>
+                    <th>Firma Adı</th>
+
+                    <th>Araç Plaka</th>
+                    <th>Araç Model</th>
+
+
+                    <th>HGS no</th>
+                    <th>IMEI no</th>
+
+                    <th>Model Yılı</th>
+                    <th>İzinBitiş</th>
+                    <th>FirmaDetay</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+                    <th>Araç Fotograf</th>
+
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+    <!-- /.card-body -->
+</div>
+
+
+
+

@@ -1,0 +1,184 @@
+﻿
+@{
+    ViewData["Title"] = "AddBalance";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model EntityLayer.Concrete.BalanceSmall
+
+
+
+<div class="card card-default">
+    <div class="card-header">
+        <h3 class="card-title">KÜÇÜK ARAÇ İŞ EKLEME SAYFASI</h3>
+
+        <div class="card-tools">
+            <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                <i class="fas fa-minus"></i>
+            </button>
+            <button type="button" class="btn btn-tool" data-card-widget="remove">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
+    <!-- /.card-header -->
+    @using (Html.BeginForm("AddBalance", "SmallVehicle", FormMethod.Post))
+    {
+
+
+
+        <div class="row">
+            <div class="col-12 col-sm-6">
+
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">Firma Bilgileri</h3>
+                    </div>
+                    <div class="card-body">
+                        <!-- Date dd/mm/yyyy -->
+                        <div class="form-group">
+                            <label>Ad:</label>
+
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-laptop"></i></span>
+                                </div>
+                                @Html.DropDownListFor(x => x.SmallVehicleId, (List<SelectListItem>)ViewBag.cv, new { @class = "form-control" })
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+
+                        <div class="form-group">
+                            <label>İşlem Tarihi:</label>
+
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-laptop"></i></span>
+                                </div>
+                                @Html.TextBoxFor(x => x.Date, new { @class = "form-control", type = "date" })
+
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+
+                    
+                        <!-- phone mask -->
+                        <div class="form-group">
+                            <label>Tahakkuk Miktarı:</label>
+
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-book"></i></span>
+                                </div>
+                                @Html.TextBoxFor(x => x.TahakkukMiktarı, new { @class = "form-control" })
+              
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+
+
+                        <!-- /.form group -->
+                        <!-- phone mask -->
+                        <div class="form-group">
+                            <label>Araç Miktarı:</label>
+
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-calculator"></i></span>
+                                </div>
+                                @Html.TextBoxFor(x => x.miktar, new { @class = "form-control" })
+
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+
+
+
+                        <!-- /.form group -->
+                        <!-- IP mask -->
+                        <!-- /.form group -->
+
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+            </div>
+            <!-- /.col -->
+            <div class="col-12 col-sm-6">
+                <div class="card card-success">
+                    <div class="card-header">
+                        <h3 class="card-title">Adres Bilgileri</h3>
+                    </div>
+                    <div class="card-body">
+                        <!-- Date dd/mm/yyyy -->
+                        <!--<div class="form-group">
+    <label>İlçe:</label>
+
+    <div >
+        <div >
+            <span ><i class="fas fa-laptop"></i></span>
+        </div>
+       Html.DropDownListFor(x=>x.CompanyId,(List<SelectListItem>)ViewBag.cv,new { class = "form-control" })
+
+    </div>-->
+                        <!-- /.input group -->
+                        <div class="form-group">
+                            <label>İlçe/Mahalle:</label>
+
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text"><i class="fas fa-laptop"></i></span>
+                                </div>
+                                @Html.TextBoxFor(x => x.District, new { @class = "form-control" })
+
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+                        <!-- /.form group -->
+                        <!-- Date mm/dd/yyyy -->
+                        <div class="form-group">
+                            <div class="input-group">
+                                <label>Ada:</label>
+                                <div class="input-group">
+
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                                    </div>
+                                    @Html.TextBoxFor(x => x.Island, new { @class = "form-control" })
+
+                                </div>
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <label>Parcel:</label>
+                                <div class="input-group">
+
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text"><i class="far fa-calendar-alt"></i></span>
+                                    </div>
+                                    @Html.TextBoxFor(x => x.Parcel, new { @class = "form-control" })
+
+                                </div>
+                            </div>
+                            <!-- /.input group -->
+                        </div>
+               
+
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.form-group -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+
+
+
+        <button class="btn btn-info" style="margin-left:600px;"> + Firmayı Kaydet</button>
+        <br />
+        <br />
+        <br />
+    }
+
