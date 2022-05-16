@@ -13,3 +13,4 @@ Technologies I use; *Asp.NetCore 5.0
 *Bootstrap
 *Trigger
 *CodeFirst
+*ViewComponents
